@@ -72,9 +72,11 @@ li a:hover{
 }
 
 section{
+    display: flex
     background-color: rgba(0, 1, 1, 0.801);
     border-radius: 20px ;
-    width: 1269px;
+    width: 1269vw;
+    heigth:50vh
     box-shadow: 0px 5px 5px ;
     text-align: center;
     justify-content: center;
